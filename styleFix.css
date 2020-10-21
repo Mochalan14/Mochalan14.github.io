@@ -276,6 +276,10 @@ footer{
 		display: flex;
 		flex-direction: row;
 	}
+	.hero h1{
+		line-height: 2rem;
+	}
+	
 	.konten{
 		grid-template-areas: 
 		"hero "
