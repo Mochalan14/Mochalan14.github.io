@@ -277,7 +277,7 @@ footer{
 		flex-direction: row;
 	}
 	.hero h1{
-		line-height: 2rem;
+		font-size: 1rem;
 	}
 	
 	.konten{
