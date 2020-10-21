@@ -184,7 +184,7 @@ footer{
 /* -- Responsive Setting --*/
 
 /* -- Tablet --*/
-@media(max-width: 700px){
+@media screen and (max-width: 700px){
 	.konten{
 		grid-template-areas: 
 		"hero hero"
@@ -211,7 +211,7 @@ footer{
 }
 
 /* -- HP --*/
-@media(max-width: 500px){
+@media screen and (max-width: 500px){
 	.konten{
 		grid-template-areas: 
 		"hero "
